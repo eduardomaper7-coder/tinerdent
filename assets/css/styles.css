@@ -101,7 +101,7 @@ a {
 }
 
 .brand img {
-  width: 205px;
+  width: 148px;
   height: auto;
 }
 
@@ -1368,7 +1368,7 @@ a {
 
 @media (max-width:760px) {
   .brand img {
-    width: 170px;
+    width: 155px;
   }
 }
 
