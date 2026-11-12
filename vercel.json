@@ -1,0 +1,10 @@
+{
+  "redirects": [
+    { "source": "/implantes-dentales-tenerife.html", "destination": "/protesis-sobre-implantes-tenerife.html", "permanent": true },
+    { "source": "/implantes-dentales-tenerife", "destination": "/protesis-sobre-implantes-tenerife.html", "permanent": true },
+    { "source": "/cirugia-dental-tenerife.html", "destination": "/tratamientos.html", "permanent": true },
+    { "source": "/cirugia-dental-tenerife", "destination": "/tratamientos.html", "permanent": true },
+    { "source": "/frenectomia-tenerife.html", "destination": "/tratamientos.html", "permanent": true },
+    { "source": "/frenectomia-tenerife", "destination": "/tratamientos.html", "permanent": true }
+  ]
+}
